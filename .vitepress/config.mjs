@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/laowang_study_room/",
   title: "老王自习室",
   description: "跟老王一起终身学习",
 
